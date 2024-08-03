@@ -1,5 +1,7 @@
 # Python
 
+![PYTHON](./00_media/PY.webp)
+
 La sintaxis de Python se caracteriza por su claridad y legibilidad, lo que la convierte en un lenguaje ideal para principiantes y expertos por igual. Su diseño se basa en la idea de que el código debe ser lo más parecido posible al lenguaje natural, lo que facilita su comprensión, escritura y mantenimiento.
 
 **Principales características de la sintaxis de Python**
@@ -43,3 +45,4 @@ print(resultado)
 - **[Variables](01_variables/01_variables.md)**
 - **[Tipos de datos](02_tipos_datos/02_tipos_datos.md)**
 - **[Operadores](03_operadores/03_operadores.md)**
+- **[Cadenas de texto](04_cadenas_texto/04_cadenas_texto.md)**
