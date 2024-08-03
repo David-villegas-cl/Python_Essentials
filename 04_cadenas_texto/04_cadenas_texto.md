@@ -1,5 +1,7 @@
 # Cadenas de texto
 
+![CADENAS_DE_TEXTO](../00_media/PY_CADENAS.webp)
+
 Las cadenas de texto (strings en inglés) son un tipo de dato básico en Python. Se utilizan para representar secuencias de caracteres, como palabras, frases, párrafos, entre otros. En Python, las cadenas de texto se pueden definir utilizando comillas simples (`'`) o dobles (`"`).
 
 **Ejemplo de cadenas de textos simples**.
