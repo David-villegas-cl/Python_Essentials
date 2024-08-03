@@ -264,3 +264,5 @@ Se debe escapar una cadena en Python cuando contiene alguno de los siguientes ca
 - Retroceso (`\b`): Se utiliza para representar el retroceso, por lo que si se quiere incluir un retroceso literalmente, hay que escaparla.
 
 - Alimentación de formulario (`\f`): Se utiliza para representar la alimentación de formulario, por lo que si se quiere incluir una alimentación de formulario literalmente, hay que escaparla.
+
+## [HAZ CLICK AQUÍ PARA IR A LOS EJERCICIOS](00_cadenas_texto.py)
