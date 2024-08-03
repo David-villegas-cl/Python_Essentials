@@ -1,5 +1,7 @@
 # Tipos de datos en Python
 
+![TIPOS_DE_DATOS](../00_media/PY_DATOS.webp)
+
 En Python, los tipos de datos son elementos básicos que se utilizan para almacenar y manipular información. Cada tipo de dato tiene sus propias características y propiedades, y se utilizan para representar diferentes tipos de información, como números, texto, listas, etc.
 
 ## Tipos de datos básicos
