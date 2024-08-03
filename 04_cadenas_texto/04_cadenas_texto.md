@@ -265,4 +265,4 @@ Se debe escapar una cadena en Python cuando contiene alguno de los siguientes ca
 
 - Alimentación de formulario (`\f`): Se utiliza para representar la alimentación de formulario, por lo que si se quiere incluir una alimentación de formulario literalmente, hay que escaparla.
 
-## [HAZ CLICK AQUÍ PARA IR A LOS EJERCICIOS](00_cadenas_texto.py)
+## [HAZ CLICK AQUÍ PARA IR A LOS EJERCICIOS](04_cadenas_texto.py)
