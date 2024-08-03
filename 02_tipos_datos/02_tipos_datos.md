@@ -80,4 +80,4 @@ Los objetos son instancias de clases definidas por el usuario. Representan entid
 
 Los tipos de datos en Python son esenciales para comprender y trabajar con información en programas. Cada tipo de dato tiene sus propias características y usos específicos. Saber elegir el tipo de dato adecuado para cada caso fundamental para escribir programas eficientes y fáciles de mantener.
 
-## [Ejercicios](02_tipos_datos.py)
+## [CLICK AQUÍ PARA IR A LOS EJERCICIOS](02_tipos_datos.py)
