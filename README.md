@@ -42,7 +42,11 @@ print(resultado)
 ## CONTENIDO
 
 - **[Función print()](00_print/00_print.md)**
+
 - **[Variables](01_variables/01_variables.md)**
+
 - **[Tipos de datos](02_tipos_datos/02_tipos_datos.md)**
+
 - **[Operadores](03_operadores/03_operadores.md)**
+
 - **[Cadenas de texto](04_cadenas_texto/04_cadenas_texto.md)**
