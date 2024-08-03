@@ -1,5 +1,7 @@
 # Operadores en Python
 
+![OPERADORES](../00_media/PY_OPERADORES.webp)
+
 En Python los operadores son símbolos que se utilizan para realizar operaciones con valores o variables. Se pueden clasificar en diferentes categorías según el tipo de operación que realizan. Los operadores más comunes en Python son los aritméticos, de comparación, lógicos y de asignación.
 
 ## Operadores aritméticos
