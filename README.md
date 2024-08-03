@@ -6,7 +6,7 @@ La sintaxis de Python se caracteriza por su claridad y legibilidad, lo que la co
 
 - Indentación: A diferencia de otros lenguajes que utilizan llaves o palabras clave delimitar bloques de código. Python utiliza la indentación. Es decir, el nivel de sangria al inicio de una línea determina a qué bloque pertenece esa línea. Esta característica es fundamental en Python y ayuda a mantener un código limpio y organizado.
 
-- Caso sensitivo: Python distingue entre mayúsculas y minúsculas. Por ejemplo, `variable` y `Variable` son dos variables diferentes.
+- Case Sensitive: Python distingue entre mayúsculas y minúsculas. Por ejemplo, `variable` y `Variable` son dos variables diferentes.
 
 - Comentarios: Los comentarios se utilizan para explicar el código y se inician con el símbolo `#`. Cualquier texto después del `#` en una línea será ignorado por el intérprete de Python.
 
