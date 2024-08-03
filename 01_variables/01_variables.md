@@ -1,5 +1,7 @@
 # Variables
 
+![VARIABLES](../00_media/PY_VARIABLES.webp)
+
 ## ¿Qué es una variable?
 
 En el ámbito de la programación, una variable se define como un identificador asociado a un espacio de memoria donde se almacena un valor. Este valor puede ser modificado a lo largo de la ejecución de un programa. En Python, las variables no requieren una declaración explícita de tipo, ya que el interprete infiere el tipo de dato en tiempo de ejecución.
