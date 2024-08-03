@@ -36,3 +36,8 @@ def suma(a, b):
 resultado = suma(3, 5)
 print(resultado)
 ```
+
+## CONTENIDO
+
+- **[Variables](01_variables/01_variables.md)**
+- **[Tipos de datos](02_tipos_datos/02_tipos_datos.md)**
