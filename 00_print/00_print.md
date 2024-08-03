@@ -1,5 +1,7 @@
 # Función print()
 
+![FUNCIÓN_PRINT](../00_media/PY_PRINT.webp)
+
 La función `print()` en Python en una herramienta fundamental para mostrar información en la consola o un archivo de salida. Se utiliza para imprimir texto, variables, valores y resultados de cálculos. Es uan de las funciones más básicas y utilizadas en Python.
 
 1. **Imprimir un mensaje simple en consola**.
