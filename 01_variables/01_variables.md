@@ -44,10 +44,4 @@ La forma en que declaremos y utilizamos las variables en Python influyen directa
 
 - **`Snake Case`**: Se utiliza para nombrar variables y funciones. Las palabras se separan por guiones bajos. Por ejemplo, `nombre_usuario`, `fecha_nacimiento`.
 
-### Ejercicios
-
-1. Asigna un valor numérico a una variable y muestra su valor en la consola.
-
-2. Asigna un valor de tipo cadena a una variable y muestra su valor en la consola.
-
-3. Asigna un valor booleano a una variable y muestra su valor en la consola.
+## [CLICK AQUÍ PARA IR A LOS EJERCICIOS](01_variables.py)
