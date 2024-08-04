@@ -48,4 +48,24 @@ Python ofrece funcionalidades para formatear la salida de la función `print()`.
     print(mensaje)
     ```
 
+## ¿Cómo conocer un tipo de dato?
+
+Para conocer el tipo de dato de una variable se puede utilizar la función `type()`.
+
+```python
+# Definimos variables de diferentes tipos para ejemplificar
+numero = 42
+palabra = "Python"
+decimal = 3.14
+lista = [1, 2, 3]
+diccionario = {"nombre": "Juan", "edad": 30}
+
+# Imprimimos el tipo de dato de cada variable
+print(type(numero))
+print(type(palabra))
+print(type(decimal))
+print(type(lista))
+print(type(diccionario))
+```
+
 ## [HAZ CLICK AQUÍ PARA IR A LOS EJERCICIOS](00_print.py)
