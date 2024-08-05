@@ -42,3 +42,4 @@ print(f"Fruta 2: {frutas2}")
 print(f"Fruta 3: {frutas3}")
 ```
 
+## [HAZ CLICK AQUÍ PARA IR A LOS EJERCICIOS](06_tuplas.py)
