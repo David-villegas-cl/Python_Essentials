@@ -50,3 +50,5 @@ print(resultado)
 - **[Operadores](03_operadores/03_operadores.md)**
 
 - **[Cadenas de texto](04_cadenas_texto/04_cadenas_texto.md)**
+
+- **[Listas](05_listas/05_listas.md)**
