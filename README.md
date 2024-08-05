@@ -52,3 +52,5 @@ print(resultado)
 - **[Cadenas de texto](04_cadenas_texto/04_cadenas_texto.md)**
 
 - **[Listas](05_listas/05_listas.md)**
+
+- **[Tuplas](06_tuplas/06_tuplas.md)**
